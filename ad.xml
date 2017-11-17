@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<realty-feed>
+<realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
     <generation-date>2016-11-01T00:00:00+03:00</generation-date>
     <!--Коммерческая недвижимость-->
 
