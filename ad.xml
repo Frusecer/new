@@ -1614,7 +1614,7 @@
                 <organization>PNK Group</organization>
         </sales-agent>
         <price>
-                <value></value>
+                <value>32800</value>
                 <currency>RUB</currency>
                 <unit>sq. m</unit>
                 <taxation-form>НДС</taxation-form>
@@ -3243,7 +3243,7 @@
         <creation-date>2017-11-17T12:00:00+03:00</creation-date>
         <last-update-date>2017-11-17T12:00:00+03:00</last-update-date>
                 <location>
-                        <country>Россия</country>
+                         <country>Россия</country>
                         <region>Московская область</region>
                         <district>Раменский район</district>
                         <locality-name>деревня Софьино</locality-name>
@@ -3286,7 +3286,7 @@
         <creation-date>2017-11-17T12:00:00+03:00</creation-date>
         <last-update-date>2017-11-17T12:00:00+03:00</last-update-date>
                 <location>
-                        <country>Россия</country>
+                         <country>Россия</country>
                         <region>Московская область</region>
                         <district>Раменский район</district>
                         <locality-name>деревня Софьино</locality-name>
@@ -3329,7 +3329,7 @@
         <creation-date>2017-11-17T12:00:00+03:00</creation-date>
         <last-update-date>2017-11-17T12:00:00+03:00</last-update-date>
                 <location>
-                        <country>Россия</country>
+                         <country>Россия</country>
                         <region>Московская область</region>
                         <district>Раменский район</district>
                         <locality-name>деревня Софьино</locality-name>
@@ -3372,7 +3372,7 @@
         <creation-date>2017-11-17T12:00:00+03:00</creation-date>
         <last-update-date>2017-11-17T12:00:00+03:00</last-update-date>
                 <location>
-                        <country>Россия</country>
+                         <country>Россия</country>
                         <region>Московская область</region>
                         <district>Раменский район</district>
                         <locality-name>деревня Софьино</locality-name>
@@ -3415,7 +3415,7 @@
         <creation-date>2017-11-17T12:00:00+03:00</creation-date>
         <last-update-date>2017-11-17T12:00:00+03:00</last-update-date>
                 <location>
-                        <country>Россия</country>
+                         <country>Россия</country>
                         <region>Московская область</region>
                         <district>Раменский район</district>
                         <locality-name>деревня Софьино</locality-name>
@@ -3458,7 +3458,7 @@
         <creation-date>2017-11-17T12:00:00+03:00</creation-date>
         <last-update-date>2017-11-17T12:00:00+03:00</last-update-date>
                 <location>
-                        <country>Россия</country>
+                         <country>Россия</country>
                         <region>Московская область</region>
                         <district>Раменский район</district>
                         <locality-name>деревня Софьино</locality-name>
@@ -3501,7 +3501,7 @@
         <creation-date>2017-11-17T12:00:00+03:00</creation-date>
         <last-update-date>2017-11-17T12:00:00+03:00</last-update-date>
                 <location>
-                        <country>Россия</country>
+                         <country>Россия</country>
                         <region>Московская область</region>
                         <district>Раменский район</district>
                         <locality-name>деревня Софьино</locality-name>
@@ -3544,7 +3544,7 @@
         <creation-date>2017-11-17T12:00:00+03:00</creation-date>
         <last-update-date>2017-11-17T12:00:00+03:00</last-update-date>
                 <location>
-                        <country>Россия</country>
+                         <country>Россия</country>
                         <region>Московская область</region>
                         <district>Раменский район</district>
                         <locality-name>деревня Софьино</locality-name>
@@ -3587,7 +3587,7 @@
         <creation-date>2017-11-17T12:00:00+03:00</creation-date>
         <last-update-date>2017-11-17T12:00:00+03:00</last-update-date>
                 <location>
-                        <country>Россия</country>
+                         <country>Россия</country>
                         <region>Московская область</region>
                         <district>Раменский район</district>
                         <locality-name>деревня Софьино</locality-name>
@@ -3630,7 +3630,7 @@
         <creation-date>2017-11-17T12:00:00+03:00</creation-date>
         <last-update-date>2017-11-17T12:00:00+03:00</last-update-date>
                 <location>
-                        <country>Россия</country>
+                         <country>Россия</country>
                         <region>Московская область</region>
                         <district>Раменский район</district>
                         <locality-name>деревня Софьино</locality-name>
@@ -3673,7 +3673,7 @@
         <creation-date>2017-11-17T12:00:00+03:00</creation-date>
         <last-update-date>2017-11-17T12:00:00+03:00</last-update-date>
                 <location>
-                        <country>Россия</country>
+                         <country>Россия</country>
                         <region>Московская область</region>
                         <district>Раменский район</district>
                         <locality-name>деревня Софьино</locality-name>
@@ -3716,7 +3716,7 @@
         <creation-date>2017-11-17T12:00:00+03:00</creation-date>
         <last-update-date>2017-11-17T12:00:00+03:00</last-update-date>
                 <location>
-                        <country>Россия</country>
+                         <country>Россия</country>
                         <region>Московская область</region>
                         <district>Раменский район</district>
                         <locality-name>деревня Софьино</locality-name>
@@ -3752,4 +3752,3 @@
 </offer>
 
 </realty-feed>
-
